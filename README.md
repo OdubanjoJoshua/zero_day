@@ -1,1 +1,1 @@
-'__Welcome to my new project__' 
+__Welcome to my project__ 
